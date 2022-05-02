@@ -1,13 +1,3 @@
-### 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ()
-- 👯 I’m looking to collaborate on anything
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
-- 📫 How to reach me: ...
-- ⚡ Fun fact: i like rust and c++!
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Stay+as+long+as+you+like)](https://git.io/typing-svg)
 
